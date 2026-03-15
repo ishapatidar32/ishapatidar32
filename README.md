@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I'm Isha, a B.Tech student passionate about coding and development
+- 💻 I’m currently working on a Video Chat Project
 - 🌱 I’m currently learning Data Structures & Algorithms (DSA)
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with improving my development skills and real-world projects and internship
