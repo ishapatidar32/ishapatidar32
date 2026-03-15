@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ishapatidar32/ishapatidar32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I'm Isha, a B.Tech student passionate about coding and development
 - 🌱 I’m currently learning Data Structures & Algorithms (DSA)
 - 👯 I’m looking to collaborate on Open Source Projects
